@@ -29,3 +29,6 @@ Como atualizar no GitHub:
 5. Commit changes
 6. Aguardar 1 a 3 minutos
 7. Atualizar https://abuxa.github.io/mm-inteligencia-imobiliaria/
+
+
+V5: logos principais foram convertidas para HTML/CSS para evitar erro de imagem quebrada. Botão flutuante de WhatsApp incluído. Substituir 5531999999999 pelo número oficial.
