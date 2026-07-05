@@ -1,0 +1,3 @@
+www.mminteligenciaimobiliaria.com.br
+
+Quando o domínio estiver liberado e o DNS configurado, renomeie este arquivo para CNAME e envie para a raiz do repositório. Não envie agora se o domínio ainda estiver pendente.
